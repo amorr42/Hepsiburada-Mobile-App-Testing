@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiburadaApp", "HepsiburadaApp\HepsiburadaApp.csproj", "{24D853EE-43D6-411F-97F4-24CE6794973F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HepsiburadaAppTest", "HepsiburadaAppTest\HepsiburadaAppTest.csproj", "{C73A5C1F-8F25-4D83-8B46-AD4A9B9AEC2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D853EE-43D6-411F-97F4-24CE6794973F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D853EE-43D6-411F-97F4-24CE6794973F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D853EE-43D6-411F-97F4-24CE6794973F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D853EE-43D6-411F-97F4-24CE6794973F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73A5C1F-8F25-4D83-8B46-AD4A9B9AEC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C73A5C1F-8F25-4D83-8B46-AD4A9B9AEC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73A5C1F-8F25-4D83-8B46-AD4A9B9AEC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73A5C1F-8F25-4D83-8B46-AD4A9B9AEC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8116DA96-F634-4E8C-9FF1-DB3B444CAE55}
+	EndGlobalSection
+EndGlobal
